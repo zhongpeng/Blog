@@ -7,10 +7,10 @@ blog
 
 ## 前端面试题系列
 
-#### - [前端面试题系列--css篇](https://github.com/zhongpeng/Blog/blob/master/InterviewSubject/css.md)
-#### - [前端面试题系列--html篇](https://github.com/xufei/blog/issues/18)
-#### - [前端面试题系列--js篇](https://github.com/xufei/blog/issues/10)
-#### - [前端面试题系列--框架篇](https://github.com/xufei/blog/issues/11)
+#### - [前端面试题系列--css篇](https://github.com/zhongpeng/Blog/issues/1)
+#### - [前端面试题系列--html篇](https://github.com/zhongpeng/Blog/issues/2)
+#### - [前端面试题系列--js篇](https://github.com/zhongpeng/Blog/issues/3)
+#### - [前端面试题系列--框架篇](https://github.com/zhongpeng/Blog/issues/4)
 
 ## React之旅
 
