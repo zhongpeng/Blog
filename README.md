@@ -1,17 +1,17 @@
-blog
-====
+# 个人博客
 
-#####整理网上前端知识以及自己的心得，分享给大家.
-#####在面试题系列中,除了给大家讲一些面试题答案之外,还会补充一些扩展知识,供大家学习.
+####麻烦点star，不要fork
 
-# 目录
+> 或许现在很多企业和团队尚未重视前端工程，或许前端工程在很多人眼里还只是“构建工具”的代名词，又或许未来前端领域的变革使得一切工程问题从根本上得到解决。不管怎样，我只是希望当下能认真的记录自己在前端工程领域的所见所想，与正在经历前端工程化改进，并被此过程困扰的同学交流心得。
 
-## 前端面试题系列
 
-#### - [前端面试题系列--css篇](https://github.com/zhongpeng/Blog/issues/1)
-#### - [前端面试题系列--html篇](https://github.com/zhongpeng/Blog/issues/2)
-#### - [前端面试题系列--js篇](https://github.com/zhongpeng/Blog/issues/3)
-#### - [前端面试题系列--框架篇](https://github.com/zhongpeng/Blog/issues/4)
+#目录
+
+- 面试题系列
+    - [前端面试题系列--css篇](https://github.com/zhongpeng/Blog/issues/1)
+    - [前端面试题系列--html篇](https://github.com/zhongpeng/Blog/issues/2)
+    - [前端面试题系列--js篇](https://github.com/zhongpeng/Blog/issues/3)
+    - [前端面试题系列--框架篇](https://github.com/zhongpeng/Blog/issues/4)
 
 ## React之旅
 
